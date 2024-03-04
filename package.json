@@ -94,7 +94,7 @@
     "i18next": "23.5.1",
     "i18next-browser-languagedetector": "7.1.0",
     "i18next-xhr-backend": "3.2.2",
-    "interactjs": "1.10.19",
+    "interactjs": "1.10.26",
     "jquery": "3.7.1",
     "jquery-datetimepicker": "2.5.21",
     "jquery-validation": "1.19.5",
